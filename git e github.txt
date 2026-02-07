@@ -1,0 +1,3 @@
+repositorio locare/remoto
+git = repositorio local
+github = repositorio remoto

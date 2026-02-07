@@ -1,0 +1,31 @@
+Modelo de Caixas 
+podemos formal um modelo de caixas uma dentro da outra (aninhamento) formando uma hierarquia de caixas
+
+Tipos de Caixa
+.box-level 
+-quando quero quebrar uma linha e um box que oucupa a largura inteira
+-<div>
+-<h1>-<h6>
+-<p>
+-<main>
+-<header>
+-<nav>
+-<article>
+-<aside>
+-<footer>
+-<form>
+-<video>
+
+.inline-level 
+-quando eu quero q a proxima caixa esteja do lado 
+-<span>
+-<a>
+-<code>
+-<small>
+-<strong>
+-<em>
+-<sup>-<sub>
+-<label>
+-<button>
+-<input>
+-<select>

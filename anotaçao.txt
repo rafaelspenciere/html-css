@@ -1,0 +1,68 @@
+Representacao de Dados
+0  1 = binary digit = Bit
+Codigo Multibyte      UTF-8?
+01000001 = A
+  8bits
+  byte
+
+1024Bytes = 1KB       MB ≠ Mb
+1024KB = 1MB          MB = megabytes
+1024MB = 1GB          Mb = megabits
+1024GB = 1TB
+1024TB = 1PB
+1024PB = 1EB
+1024EB = 1ZB
+1024ZB = 1YB
+
+HTML = Conteudo
+       Texto
+       Imagem
+       Videos
+       Tabela
+
+CSS = Designe
+      Cores
+      Sombras
+      Tamanhos
+      Posicionamentos
+
+JS = Interacao APRENDER
+     Menu
+     Animacao
+     Popups
+     Validacoes
+
+.HTML
+<h1>Texto</h1>       Texto = Conteudo
+                     <h1> = Abertura da Tag
+                     </h1> = Fechamento da Tag
+
+<img src="imagem.png" alt="exemplo de imagem">     <img> = Abertura da Tag
+                                                   src e alt = Parametro
+                                                   "imagem.png" e "exemplo de imagem" = Valor
+.HTML
+
+.CSS
+h1 {                                      h1 = seletor
+    font-family: Arial;                   {} = dentro dos colchetes e a Declaracao
+    font-size: 20pt;                      color = Propriedade 
+    color: blue;                          blue = Valor
+}
+.CSS
+
+Estrutura Basica de Documento HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta chorset="UTF-8"> =                                                 disponibiliza asentos e letras que nao tem no ingles
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"> =  site vai ocupar 100% da parte branca e vai ser visualizado em uma escala de 100%
+        <title>Nome do Site</title> =                                            Nome que vai dar ao seu site
+    </head>
+    <body>
+        <h1>Ola, Mundo!</h1> = A base de "tudo" que for escrever no seu site
+
+    </body>
+</html>
+
+head = cabeca 
+body = corpo

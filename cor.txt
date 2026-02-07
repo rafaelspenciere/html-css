@@ -1,0 +1,75 @@
+Harmonia de Cores
+        ⬇
+⮕Círculo Cromático
+Servindo para saber harmonizar(harmonia) as cores
+
+⮕Cores Primárias 
+    ⮕Amarelo
+    ⮕Vermelho
+    ⮕Azul
+
+⮕Cores Secundárias
+    ⮕Laranja
+    ⮕Violeta
+    ⮕Verde
+
+⮕Cores Terciárias
+São cores que sempre vão estar entra a cor primária e a cor secundária
+    ⮕amarelo-esverdeado
+    ⮕amarelo-alaranjado
+    ⮕vermelho-alaranjado
+    ⮕vermelho-arroxeado
+    ⮕azul-arroxeado
+    ⮕azul-esverdeado
+
+⮕Temperatura de Cores
+          ⬇
+⮕todas as cores que estão do lado esquerdo do circulo cromatico sao as cores FRIAS
+                                    ⬇ 
+    ⮕amarelo-esverdeado
+    ⮕Verde
+    ⮕azul-esverdeado
+    ⮕Azul
+    ⮕azul-arroxeado
+    ⮕Violeta
+
+⮕todas as cores que estão do lado esquerdo do circulo cromatico sao as cores QUENTES
+                                    ⬇
+    ⮕Amarelo
+    ⮕amarelo-alaranjado
+    ⮕Laranja
+    ⮕vermelho-alaranjado
+    ⮕Vermelho
+    ⮕vermelho-arroxeado        
+
+⮕Paletas de cores para o site
+⮕Preto e branco sempre 
+e no minimo de 3 a 5 paletas de cores no meu site
+
+⮕Cores Complementares
+cores que contrasta com a outra e so pegar o extremo oposto da cor que voce escolheu
+
+⮕Cores Análogas
+escolho uma cor principal e pego as cores visinhas
+
+⮕Cores Análogas e uma Complementar
+escolho uma cor principal e pego as cores visinhas para a Análoga e a cor oposta da cor principal e a cor Complementar
+
+⮕Cores Análogas Relacionadas
+Pega 2 cores principais e pega uma cor de contraste voce pula uma cor e pega a proxima tanto para o lado esquerdo tanto para o lado direito
+
+⮕Cores Intercaladas
+escolho uma cor principal e vol intercalando entre uma em uma ou mais para os lados para fazer um contraste
+
+⮕Cores Triádicas
+escolhe uma cor principal e pula tres cores e escolhe a outra cor para ter um contraste
+
+⮕Cores em Quadrado
+escolhe uma cor principal e pula duas cores e escolhe a outra cor para ter um contraste
+
+⮕Cores em Tetrádicas
+escolho duas cores principais em seguida escolha as cores complementares das cores principais as cores opostas dela
+
+⮕Monocromia
+escolho uma cor e altero a saturaçao e o luminosidade dela 
+formando o degrade
